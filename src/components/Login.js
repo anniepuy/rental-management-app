@@ -5,7 +5,7 @@ function Login() {
     return (
         <div className="login-container">
             <div className="login-logo">
-                <h2>Property Manager</h2>
+                <img src="../public/rentalMangLogo.png" alt="Property Management Logo"/>
             </div>
 
             <form className="login-form">
